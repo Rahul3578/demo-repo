@@ -6,3 +6,5 @@ This is a demo file code.
     Hello world.
   </div>
 </html>
+
+<div>NO comments</div>
